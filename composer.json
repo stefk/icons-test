@@ -1,0 +1,12 @@
+{
+    "name": "stefk/icon-test",
+    "authors": [
+        {
+            "name": "Stéphane Klein",
+            "email": "stephaneklein221@gmail.com"
+        }
+    ],
+    "require": {
+        "joshtronic/php-loremipsum": "^1.0"
+    }
+}
