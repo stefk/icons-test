@@ -59,8 +59,8 @@
     }
     .icon-large {
       display: inline-block;
-      width: 64px;
-      height: 64px;
+      width: 70px;
+      height: 70px;
       margin-top: 12px;
       margin-right: 20px;
       padding: 10px;
@@ -71,8 +71,8 @@
       opacity: 0.6;
     }
     .icon-large img {
-      width: 40px;
-      height: 40px;
+      width: 48px;
+      height: 48px;
     }
     .explanation {
       display: inline-block;
